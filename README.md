@@ -1,5 +1,4 @@
-# Virtual-Pet
-Created by Michaela Young, Trey Crumrine, Sergei Klein
+A game where you can create and interact with a virtual pet, created by Michaela Young, Trey Crumrine, Sergei Klein
 
 Welcome!
 
